@@ -202,6 +202,9 @@ const AuthForm = () => {
           </div>
         </div>
       </div>
+
+      {/* 임시 페이지 접근 link */}
+      <Link href='/MainPage'>임시페이지접근</Link>
     </div>
   );
 };
